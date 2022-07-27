@@ -4,8 +4,13 @@
 ## Github Status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dusbeat&theme=dark&show_icons=true)](https://github.com/Dusbeat/devweekgit.github.io)
 
+## Linguagens Mais Utilizadas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dusbeat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Projetos:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dusbeat&repo=devweekgit.github.io&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dusbeat&repo=cs50-site-lab8.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Linguagens / Tecnologias :
 ### Aprendidas:
