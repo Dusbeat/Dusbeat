@@ -9,7 +9,7 @@
 
 ## Projetos:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dusbeat&repo=devweekgit.github.io&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dusbeat&repo=cs50-site-lab8.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dusbeat&repo=iFinance&theme=dark)]
 
 
 ## Linguagens / Tecnologias :
