@@ -8,8 +8,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dusbeat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projetos:
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dusbeat&repo=devweekgit.github.io&theme=dark)
+#### iFinance:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dusbeat&repo=iFinance&theme=dark)](https://github.com/Dusbeat/iFinance)
+#### Exemplo de Página de Login:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dusbeat&repo=minimalist-login&theme=dark)](https://github.com/Dusbeat/minimalist-login)
 
 
 ## Linguagens / Tecnologias :
