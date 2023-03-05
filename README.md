@@ -10,6 +10,9 @@
 #### Exemplo de Página de Login:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dusbeat&repo=minimalist-login&theme=dark)](https://github.com/Dusbeat/minimalist-login)
 
+#### InstaClone:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dusbeat&repo=InstaClone&theme=dark)](https://github.com/Dusbeat/InstaClone)
+
 ## Linguagens Mais Utilizadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dusbeat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
