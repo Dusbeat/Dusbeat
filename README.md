@@ -4,15 +4,14 @@
 ## Github Status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dusbeat&theme=dark&show_icons=true)](https://github.com/Dusbeat/devweekgit.github.io)
 
-## Linguagens Mais Utilizadas:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dusbeat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Projetos:
 #### iFinance:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dusbeat&repo=iFinance&theme=dark)](https://github.com/Dusbeat/iFinance)
 #### Exemplo de Página de Login:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dusbeat&repo=minimalist-login&theme=dark)](https://github.com/Dusbeat/minimalist-login)
 
+## Linguagens Mais Utilizadas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dusbeat&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linguagens / Tecnologias :
 ### Aprendidas:
